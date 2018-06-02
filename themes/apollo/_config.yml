@@ -1,11 +1,10 @@
 menu:
     Blog: /
     Archive: /archives/
-    GitHub: https://github.com/ViterbiDevelopment
-    Rss: /atom.xml
+    GitHub: https://github.com/ViterbiDevelopment/FileShare
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: /favicon.jpeg
+logo: /favicon.jpeg
 
 # Comment
 # e.g disqus: seansun
